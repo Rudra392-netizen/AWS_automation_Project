@@ -1,4 +1,4 @@
-AWS Cost Optimization & Monitoring Automation (Python + Boto3)
+#AWS Cost Optimization & Monitoring Automation (Python + Boto3)
 📌 Why I Built This Project
 
 In real companies, AWS bills increase silently because unused resources keep running in the background.
@@ -19,7 +19,7 @@ Show interviewers that I can think like a DevOps engineer
 This project does NOT delete anything.
 It only scans, reports, logs, and sends email alerts — which is safer and more realistic for production.
 
-🧠 What Problem This Project Solves
+#🧠 What Problem This Project Solves
 
 In AWS accounts, these resources often remain unused:
 
@@ -45,7 +45,7 @@ Sends a detailed email report
 
 Helps teams take action manually
 
-🧱 Project Structure
+#🧱 Project Structure
 aws-cost-optimization/
 │
 ├── main.py
