@@ -1,0 +1,229 @@
+2026-02-08 17:35:34,932 - INFO - AWS Cost Optimization Script Started
+2026-02-08 17:35:34,971 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-08 17:35:35,802 - INFO - Instance_Id: i-0532632108e4761ca
+2026-02-08 17:35:35,802 - INFO - State: running
+2026-02-08 17:35:35,802 - INFO - InstanceType: t2.micro
+2026-02-08 17:35:35,802 - INFO - ----------------------------------------
+2026-02-08 17:35:35,802 - INFO - Instance_Id: i-0a8144f3d65d9940e
+2026-02-08 17:35:35,802 - INFO - State: stopped
+2026-02-08 17:35:35,802 - INFO - InstanceType: t2.micro
+2026-02-08 17:35:35,802 - INFO - ----------------------------------------
+2026-02-08 17:35:35,802 - INFO - AWS Cost Optimization Automation
+2026-02-08 17:35:35,802 - INFO - ----------------------------------------
+2026-02-08 17:35:35,802 - INFO - Checking stopped EC2 instances...
+2026-02-08 17:35:36,097 - INFO - Instance ID: i-0a8144f3d65d9940e
+2026-02-08 17:35:36,097 - INFO - State: stopped
+2026-02-08 17:35:36,097 - INFO - Instance Type: t2.micro
+2026-02-08 17:35:36,097 - INFO - ------------------------------
+2026-02-08 17:35:36,113 - INFO - Checking unused EBS volumes...
+2026-02-08 17:35:36,359 - INFO - Checking unused Elastic IPs...
+2026-02-08 17:35:36,592 - INFO - No elastic IP is found
+2026-02-08 17:35:36,594 - INFO - Checking old EBS snapshots...
+2026-02-08 17:35:36,799 - INFO - Old Snapshot ID: snap-066217ee99b8153c6
+2026-02-08 17:35:36,799 - INFO - Age: 0
+2026-02-08 17:35:36,799 - INFO - ----------------------------------------
+2026-02-08 17:35:36,799 - INFO - ----------------------------------------
+2026-02-08 17:35:36,799 - INFO - Scan completed. No resources were deleted.
+2026-02-08 18:33:28,028 - INFO - AWS Cost Optimization Script Started
+2026-02-08 18:33:28,111 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-08 18:33:29,079 - INFO - Instance_Id: i-0532632108e4761ca
+2026-02-08 18:33:29,079 - INFO - State: terminated
+2026-02-08 18:33:29,079 - INFO - InstanceType: t2.micro
+2026-02-08 18:33:29,079 - INFO - ----------------------------------------
+2026-02-08 18:33:29,079 - INFO - Instance_Id: i-0a8144f3d65d9940e
+2026-02-08 18:33:29,079 - INFO - State: terminated
+2026-02-08 18:33:29,079 - INFO - InstanceType: t2.micro
+2026-02-08 18:33:29,079 - INFO - ----------------------------------------
+2026-02-08 18:33:29,079 - INFO - AWS Cost Optimization Automation
+2026-02-08 18:33:29,079 - INFO - ----------------------------------------
+2026-02-08 18:33:29,079 - INFO - Checking stopped EC2 instances...
+2026-02-08 18:33:29,357 - INFO - Checking unused EBS volumes...
+2026-02-08 18:33:29,620 - INFO - Checking unused Elastic IPs...
+2026-02-08 18:33:29,876 - INFO - No elastic IP is found
+2026-02-08 18:33:29,876 - INFO - Checking old EBS snapshots...
+2026-02-08 18:33:30,135 - INFO - Old Snapshot ID: snap-066217ee99b8153c6
+2026-02-08 18:33:30,135 - INFO - Age: 0
+2026-02-08 18:33:30,135 - INFO - ----------------------------------------
+2026-02-08 18:33:30,135 - INFO - ----------------------------------------
+2026-02-08 18:33:30,135 - INFO - Scan completed. No resources were deleted.
+2026-02-09 08:15:33,450 - INFO - AWS Cost Optimization Script Started
+2026-02-09 08:15:33,483 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 08:15:34,277 - INFO - AWS Cost Optimization Automation
+2026-02-09 08:15:34,277 - INFO - ----------------------------------------
+2026-02-09 08:15:34,277 - INFO - Checking stopped EC2 instances...
+2026-02-09 08:15:34,479 - INFO - Checking unused EBS volumes...
+2026-02-09 08:15:34,700 - INFO - Checking unused Elastic IPs...
+2026-02-09 08:15:35,067 - INFO - No elastic IP is found
+2026-02-09 08:15:35,067 - INFO - Checking old EBS snapshots...
+2026-02-09 08:15:35,311 - INFO - ----------------------------------------
+2026-02-09 08:15:35,311 - INFO - Scan completed. No resources were deleted.
+2026-02-09 10:08:05,867 - INFO - AWS Cost Optimization Script Started
+2026-02-09 10:08:05,964 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 10:08:06,879 - INFO - AWS Cost Optimization Automation
+2026-02-09 10:08:06,879 - INFO - ----------------------------------------
+2026-02-09 10:08:06,879 - INFO - Checking stopped EC2 instances...
+2026-02-09 10:08:07,189 - INFO - Checking unused EBS volumes...
+2026-02-09 10:08:07,416 - INFO - Checking unused Elastic IPs...
+2026-02-09 10:08:07,774 - INFO - No elastic IP is found
+2026-02-09 10:08:07,774 - INFO - Checking old EBS snapshots...
+2026-02-09 10:08:08,034 - INFO - ----------------------------------------
+2026-02-09 10:08:08,034 - INFO - Scan completed. No resources were deleted.
+2026-02-09 10:08:08,424 - INFO - No elastic IP is found
+2026-02-09 10:08:14,585 - INFO - Email sent successfully
+2026-02-09 10:10:59,464 - INFO - AWS Cost Optimization Script Started
+2026-02-09 10:10:59,508 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 10:11:00,314 - INFO - Instance_Id: i-031563e32fb48e835
+2026-02-09 10:11:00,315 - INFO - State: stopping
+2026-02-09 10:11:00,315 - INFO - InstanceType: t2.micro
+2026-02-09 10:11:00,315 - INFO - ----------------------------------------
+2026-02-09 10:11:00,315 - INFO - AWS Cost Optimization Automation
+2026-02-09 10:11:00,315 - INFO - ----------------------------------------
+2026-02-09 10:11:00,315 - INFO - Checking stopped EC2 instances...
+2026-02-09 10:11:00,573 - INFO - Checking unused EBS volumes...
+2026-02-09 10:11:00,871 - INFO - Checking unused Elastic IPs...
+2026-02-09 10:11:01,236 - INFO - No elastic IP is found
+2026-02-09 10:11:01,237 - INFO - Checking old EBS snapshots...
+2026-02-09 10:11:01,475 - INFO - ----------------------------------------
+2026-02-09 10:11:01,475 - INFO - Scan completed. No resources were deleted.
+2026-02-09 10:11:01,900 - INFO - No elastic IP is found
+2026-02-09 10:11:06,074 - INFO - Email sent successfully
+2026-02-09 10:14:26,042 - INFO - AWS Cost Optimization Script Started
+2026-02-09 10:14:26,093 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 10:14:27,355 - INFO - Instance_Id: i-031563e32fb48e835
+2026-02-09 10:14:27,356 - INFO - State: stopped
+2026-02-09 10:14:27,356 - INFO - InstanceType: t2.micro
+2026-02-09 10:14:27,356 - INFO - ----------------------------------------
+2026-02-09 10:14:27,356 - INFO - AWS Cost Optimization Automation
+2026-02-09 10:14:27,356 - INFO - ----------------------------------------
+2026-02-09 10:14:27,356 - INFO - Checking stopped EC2 instances...
+2026-02-09 10:14:27,659 - INFO - Instance ID: i-031563e32fb48e835
+2026-02-09 10:14:27,659 - INFO - State: stopped
+2026-02-09 10:14:27,659 - INFO - Instance Type: t2.micro
+2026-02-09 10:14:27,659 - INFO - ------------------------------
+2026-02-09 10:14:27,661 - INFO - Checking unused EBS volumes...
+2026-02-09 10:14:28,041 - INFO - Checking unused Elastic IPs...
+2026-02-09 10:14:28,398 - INFO - No elastic IP is found
+2026-02-09 10:14:28,398 - INFO - Checking old EBS snapshots...
+2026-02-09 10:14:28,613 - INFO - ----------------------------------------
+2026-02-09 10:14:28,613 - INFO - Scan completed. No resources were deleted.
+2026-02-09 10:14:28,887 - INFO - Instance ID: i-031563e32fb48e835
+2026-02-09 10:14:28,887 - INFO - State: stopped
+2026-02-09 10:14:28,887 - INFO - Instance Type: t2.micro
+2026-02-09 10:14:28,887 - INFO - ------------------------------
+2026-02-09 10:14:29,043 - INFO - No elastic IP is found
+2026-02-09 10:14:33,537 - INFO - Email sent successfully
+2026-02-09 10:37:25,353 - INFO - AWS Cost Optimization Script Started
+2026-02-09 10:37:25,395 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 10:37:26,226 - INFO - Instance_Id: i-031563e32fb48e835
+2026-02-09 10:37:26,226 - INFO - State: stopped
+2026-02-09 10:37:26,226 - INFO - InstanceType: t2.micro
+2026-02-09 10:37:26,227 - INFO - ----------------------------------------
+2026-02-09 10:37:26,227 - INFO - AWS Cost Optimization Automation
+2026-02-09 10:37:26,227 - INFO - ----------------------------------------
+2026-02-09 10:37:26,227 - INFO - Checking stopped EC2 instances...
+2026-02-09 10:37:26,267 - INFO - Checking unused EBS volumes...
+2026-02-09 10:37:26,282 - INFO - Checking unused Elastic IPs...
+2026-02-09 10:37:26,296 - INFO - Checking old EBS snapshots...
+2026-02-09 10:37:26,323 - INFO - ----------------------------------------
+2026-02-09 10:37:26,323 - INFO - Scan completed. No resources were deleted.
+2026-02-09 10:37:46,475 - INFO - AWS Cost Optimization Script Started
+2026-02-09 10:37:46,518 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 10:37:47,257 - INFO - Instance_Id: i-031563e32fb48e835
+2026-02-09 10:37:47,258 - INFO - State: stopped
+2026-02-09 10:37:47,258 - INFO - InstanceType: t2.micro
+2026-02-09 10:37:47,258 - INFO - ----------------------------------------
+2026-02-09 10:37:47,258 - INFO - AWS Cost Optimization Automation
+2026-02-09 10:37:47,258 - INFO - ----------------------------------------
+2026-02-09 10:37:47,258 - INFO - Checking stopped EC2 instances...
+2026-02-09 10:37:47,271 - INFO - Checking unused EBS volumes...
+2026-02-09 10:37:47,280 - INFO - Checking unused Elastic IPs...
+2026-02-09 10:37:47,289 - INFO - Checking old EBS snapshots...
+2026-02-09 10:37:47,298 - INFO - ----------------------------------------
+2026-02-09 10:37:47,298 - INFO - Scan completed. No resources were deleted.
+2026-02-09 10:40:25,351 - INFO - AWS Cost Optimization Script Started
+2026-02-09 10:40:25,394 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 10:40:26,214 - INFO - Instance_Id: i-031563e32fb48e835
+2026-02-09 10:40:26,214 - INFO - State: stopped
+2026-02-09 10:40:26,214 - INFO - InstanceType: t2.micro
+2026-02-09 10:40:26,214 - INFO - ----------------------------------------
+2026-02-09 10:40:26,214 - INFO - AWS Cost Optimization Automation
+2026-02-09 10:40:26,214 - INFO - ----------------------------------------
+2026-02-09 10:40:26,214 - INFO - Checking stopped EC2 instances...
+2026-02-09 10:40:26,229 - INFO - Checking unused EBS volumes...
+2026-02-09 10:40:26,239 - INFO - Checking unused Elastic IPs...
+2026-02-09 10:40:26,248 - INFO - Checking old EBS snapshots...
+2026-02-09 10:40:26,256 - INFO - ----------------------------------------
+2026-02-09 10:40:26,257 - INFO - Scan completed. No resources were deleted.
+2026-02-09 10:42:05,401 - INFO - AWS Cost Optimization Script Started
+2026-02-09 10:42:05,440 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 10:42:06,216 - INFO - Instance_Id: i-031563e32fb48e835
+2026-02-09 10:42:06,217 - INFO - State: stopped
+2026-02-09 10:42:06,217 - INFO - InstanceType: t2.micro
+2026-02-09 10:42:06,217 - INFO - ----------------------------------------
+2026-02-09 10:46:30,097 - INFO - AWS Cost Optimization Script Started
+2026-02-09 10:46:30,141 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 10:46:30,970 - INFO - Instance_Id: i-031563e32fb48e835
+2026-02-09 10:46:30,970 - INFO - State: stopped
+2026-02-09 10:46:30,970 - INFO - InstanceType: t2.micro
+2026-02-09 10:46:30,970 - INFO - ----------------------------------------
+2026-02-09 10:46:31,011 - INFO - Checking stopped EC2 instances...
+2026-02-09 10:46:31,276 - INFO - Instance ID: i-031563e32fb48e835
+2026-02-09 10:46:31,276 - INFO - State: stopped
+2026-02-09 10:46:31,276 - INFO - Instance Type: t2.micro
+2026-02-09 10:46:31,276 - INFO - ------------------------------
+2026-02-09 10:46:31,276 - INFO - Checking unused EBS volumes...
+2026-02-09 10:46:31,545 - INFO - Checking unused Elastic IPs...
+2026-02-09 10:50:42,661 - INFO - AWS Cost Optimization Script Started
+2026-02-09 10:50:42,704 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 10:50:43,518 - INFO - Instance_Id: i-031563e32fb48e835
+2026-02-09 10:50:43,518 - INFO - State: stopped
+2026-02-09 10:50:43,518 - INFO - InstanceType: t2.micro
+2026-02-09 10:50:43,518 - INFO - ----------------------------------------
+2026-02-09 10:50:43,583 - INFO - Checking stopped EC2 instances...
+2026-02-09 10:50:43,831 - INFO - Instance ID: i-031563e32fb48e835
+2026-02-09 10:50:43,831 - INFO - State: stopped
+2026-02-09 10:50:43,831 - INFO - Instance Type: t2.micro
+2026-02-09 10:50:43,831 - INFO - ------------------------------
+2026-02-09 10:50:43,831 - INFO - Checking unused EBS volumes...
+2026-02-09 10:50:44,223 - INFO - Checking unused Elastic IPs...
+2026-02-09 10:50:44,446 - INFO - No Elastic IP found
+2026-02-09 10:50:44,446 - INFO - Checking old EBS snapshots...
+2026-02-09 10:50:44,689 - INFO - Scan completed. No resources were deleted.
+2026-02-09 10:50:44,689 - INFO - ----------------------------------------
+2026-02-09 10:50:49,486 - INFO - Email sent successfully
+2026-02-09 12:03:06,667 - INFO - AWS Cost Optimization Script Started
+2026-02-09 12:03:06,701 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 12:03:07,345 - INFO - Instance_Id: i-031563e32fb48e835
+2026-02-09 12:03:07,345 - INFO - State: stopped
+2026-02-09 12:03:07,345 - INFO - InstanceType: t2.micro
+2026-02-09 12:03:07,345 - INFO - ----------------------------------------
+2026-02-09 12:03:07,373 - INFO - Checking stopped EC2 instances...
+2026-02-09 12:03:07,632 - INFO - Instance ID: i-031563e32fb48e835
+2026-02-09 12:03:07,632 - INFO - State: stopped
+2026-02-09 12:03:07,632 - INFO - Instance Type: t2.micro
+2026-02-09 12:03:07,632 - INFO - ------------------------------
+2026-02-09 12:03:07,632 - INFO - Checking unused EBS volumes...
+2026-02-09 12:03:07,898 - INFO - Checking unused Elastic IPs...
+2026-02-09 12:03:08,232 - INFO - No Elastic IP found
+2026-02-09 12:03:08,233 - INFO - Checking old EBS snapshots...
+2026-02-09 12:03:08,422 - INFO - Scan completed. No resources were deleted.
+2026-02-09 12:03:08,422 - INFO - ----------------------------------------
+2026-02-09 12:03:12,613 - INFO - Email sent successfully
+2026-02-09 12:03:32,514 - INFO - AWS Cost Optimization Script Started
+2026-02-09 12:03:32,535 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2026-02-09 12:03:33,015 - INFO - Instance_Id: i-031563e32fb48e835
+2026-02-09 12:03:33,015 - INFO - State: stopped
+2026-02-09 12:03:33,015 - INFO - InstanceType: t2.micro
+2026-02-09 12:03:33,015 - INFO - ----------------------------------------
+2026-02-09 12:03:33,040 - INFO - Checking stopped EC2 instances...
+2026-02-09 12:03:33,268 - INFO - Instance ID: i-031563e32fb48e835
+2026-02-09 12:03:33,268 - INFO - State: stopped
+2026-02-09 12:03:33,268 - INFO - Instance Type: t2.micro
+2026-02-09 12:03:33,268 - INFO - ------------------------------
+2026-02-09 12:03:33,268 - INFO - Checking unused EBS volumes...
+2026-02-09 12:03:33,462 - INFO - Checking unused Elastic IPs...
+2026-02-09 12:03:33,648 - INFO - No Elastic IP found
+2026-02-09 12:03:33,648 - INFO - Checking old EBS snapshots...
+2026-02-09 12:03:33,837 - INFO - Scan completed. No resources were deleted.
+2026-02-09 12:03:33,837 - INFO - ----------------------------------------
+2026-02-09 12:03:37,711 - INFO - Email sent successfully
